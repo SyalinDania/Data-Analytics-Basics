@@ -5,6 +5,6 @@ EDA on World Happiness Report - Python
 2. Reference : https://www.youtube.com/watch?v=-o3AxdVcUtQ
 
 Data Visualization - Python
-1. Performing a simple data visualization
+1. Performing a simple data visualization (Subplot, Histogram, Scatter Plots,Heatmap)
 2. Reference : https://www.youtube.com/watch?v=MiiANxRHSv4
 
